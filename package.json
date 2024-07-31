@@ -9,15 +9,12 @@
     "chart.js": "^4.3.0",
     "concurrently": "^8.0.1",
     "copy-to-clipboard": "^3.3.3",
-<<<<<<< HEAD
     "dot": "^1.1.3",
     "dotenv": "^16.4.5",
     "env": "^0.0.2",
     "markdown-to-jsx": "^5.2.0",
     "process": "^0.11.10",
     "razorpay": "^2.9.4",
-=======
->>>>>>> 561f7051a20f416baddae4bd696270e9f2011337
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
