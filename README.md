@@ -1,13 +1,13 @@
 
 
-![Main Page](https://res.cloudinary.com/dgpkeaffc/image/upload/v1696608912/HomePage_njxcrr.png)
+
 
 ## Project Description
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+Edu_Flect is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
-StudyNotion aims to provide:
+Edu_Flectaims to provide:
 * A seamless and interactive learning experience for students, making education
 more accessible and engaging.
 * A platform for instructors to showcase their expertise and connect with learners
@@ -30,7 +30,7 @@ tools used.
 explanation of how these enhancements would improve the platform, estimated
 timeline and priority for implementing these enhancements.
 
-In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to
+In summary,Edu_Flectis a versatile and intuitive ed-tech platform that is designed to
 provide an immersive learning experience to students and a platform for instructors to
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
@@ -38,7 +38,7 @@ features and functionalities.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+Edu_Flect ed-tech platform consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
